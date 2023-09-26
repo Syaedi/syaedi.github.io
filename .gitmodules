@@ -1,0 +1,3 @@
+[submodule "pizza_menu"]
+	path = pizza_menu
+	url = https://github.com/Syaedi/syaedi.github.io.git
